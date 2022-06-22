@@ -1,0 +1,7 @@
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\LinqToXML\LinqToXML\bin\Debug\LinqToXML.exe.config
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\LinqToXML\LinqToXML\bin\Debug\LinqToXML.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\LinqToXML\LinqToXML\bin\Debug\LinqToXML.pdb
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\LinqToXML\LinqToXML\obj\Debug\LinqToXML.csproj.AssemblyReference.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\LinqToXML\LinqToXML\obj\Debug\LinqToXML.csproj.CoreCompileInputs.cache
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\LinqToXML\LinqToXML\obj\Debug\LinqToXML.exe
+C:\Users\Надя\Desktop\Матеріали\2 курс\C#\LinqToXML\LinqToXML\obj\Debug\LinqToXML.pdb
